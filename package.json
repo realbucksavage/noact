@@ -34,5 +34,6 @@
     "ci": "./ci/release.ts",
     "pretty": "prettier --write **/**.tsx --write **/**.ts"
   },
+  "name": "noactjs",
   "version": "1.0.0"
 }
